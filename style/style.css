@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(32,33,36,1);
+}
+
+.profile-image {
+    border-radius: 500px;
+    height: 40px;
+}
+
+.navbar {
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.navbar-item {
+    margin-left: 10px;
+}
