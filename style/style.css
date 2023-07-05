@@ -29,3 +29,16 @@ body {
 .navbar-item img.profile-image {
     vertical-align: middle;
 }
+
+.search-bar {
+    border: 1px solid #5f6368;
+    display: flex;
+    width: 500px;
+    align-items: center;
+    height: 40px;
+    border-radius: 24px;
+}
+
+.search-bar:hover {
+    background-color: #303134;
+}
