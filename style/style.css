@@ -42,3 +42,17 @@ body {
 .search-bar:hover {
     background-color: #303134;
 }
+
+.button {
+    background-color: #303134;
+    justify-content: space-between;
+    color: #e8eaed;
+    text-align: center;
+    border: 1px solid #303134;
+    border-radius: 4px;
+    font-size: 15px;
+    font-family: arial,sans-serif;
+    margin: 5px 8px;
+    height: 36px;
+    width: 150px;
+}
