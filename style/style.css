@@ -56,3 +56,9 @@ body {
     height: 36px;
     width: 150px;
 }
+
+footer div {
+    font-size: 15px;
+    color: #9aa0a6;
+    padding: 10px;
+}
